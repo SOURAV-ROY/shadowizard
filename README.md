@@ -1,4 +1,4 @@
-# Shadowizard #
+# Shadowizard Sourav#
 
 ## What is this ?
 
@@ -19,7 +19,7 @@ shadowizard({
 });
 ```
 
-## options ##
+## Options ##
 
 Shadowizard supports 2 options, both ot which optional:
 
