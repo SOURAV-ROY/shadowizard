@@ -6,12 +6,12 @@
 
 ## Installation ##
 
-`npm install shadowizard --save`
+`npm install shadowizard-sourav --save`
 
 Then ...
 
 ```js
-import {shadowizard} from "shadowizard";
+import {shadowizard} from "shadowizard-sourav";
 
 shadowizard({
     shadow_type: 'soft',

@@ -1,0 +1,22 @@
+{
+  "name": "shadowizard-sourav",
+  "version": "1.0.0",
+  "description": "Add Awesome shadows for non-designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOURAV-ROY/shadowizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Sourav Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SOURAV-ROY/shadowizard/issues"
+  },
+  "homepage": "https://github.com/SOURAV-ROY/shadowizard#readme"
+}
