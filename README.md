@@ -1,4 +1,4 @@
-# Shadowizard Sourav
+# Shadowizard By _SOURAV_
 
 ## What is this ?
 
@@ -8,7 +8,7 @@
 
 `npm install shadowizard-sourav --save`
 
-Then ...
+## Then___
 
 ```js
 import {shadowizard} from "shadowizard-sourav";
@@ -21,7 +21,7 @@ shadowizard({
 
 ## Options ##
 
-Shadowizard supports 2 options, both ot which optional:
+Shadowizard supports 2 options, both of which are optional:
 
 * *shadow_type* - _hard | soft_ (Default to soft)
 * *padding* - _boolean_ (Default to false)
